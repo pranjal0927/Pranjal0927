@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranjal Borole</h1>
-<h3 align="center">Software Engineer experience in both Frontend and Backend</h3>
-<img src="![image](https://github.com/user-attachments/assets/7f5f8821-d16d-41f7-b295-72e7a9cc9306)
-" alt="animated image of coder" align="right" width="400px")
- >
+<h3 align="center">Software Engineer Experience in both Frontend and Backend</h3>
+<img align="right" alt="Animated Image" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal0927&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal0927" /> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Next, AWS**
+- 🌱 I’m currently learning **Next.js, AWS**
 
 - 💬 Ask me about **React, Angular, Node, Express, MongoDB, MySQL**
 
